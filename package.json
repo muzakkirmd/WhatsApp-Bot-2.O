@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-bot-2.o",
+  "version": "1.0.0",
+  "description": "My WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "googleapis": "^156.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
